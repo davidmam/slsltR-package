@@ -1,0 +1,9 @@
+Package: slsltR
+Type: Package
+Title: SLSLT Module management and reporting
+Version: 1.0.1
+Date: 2014-10-22
+Author: David M.A. Martin
+Maintainer: David Martin <d.m.a.martin@dundee.ac.uk>
+Description: This provides a deconstruction and reporting of the SLSLT Module results spreadsheets. It is read-only. It does not provide for writing the files. It contains minimal error checking. Caveat emptor.
+License: CC-BY
